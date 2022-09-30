@@ -1,4 +1,14 @@
-# Portfolio Starter Kit
+# Smart Interface Design Patterns Journal
+
+This is [@francisfuzz](https://github.com/francisfuzz)'s journal documenting everything he's learning in the [Smart Interface Design Patterns](https://smart-interface-design-patterns.com/) course taught by the one and only [`@vitalyf`](https://twitter.com/vitalyf).
+
+It is open source under the MIT license and is Francis' way of learning in public for any curious visitor to learn more about what he's learning. Previously, Francis kept learnings to himself rather than sharing and is trying something different.
+
+Because this course is a _paid_ course, he will refrain from copying over those contents into the learnings and instead focus on outlining his open questions and digging deeper into his own case studies per area. Consider checking out [the course's Free Previews](https://www.youtube.com/watch?v=aSP5oR9g-ss) if you want to learn more about what this course is all about!
+
+He'll continue posting updates until he's finished with the course. He's not looking for any contributions at this time, but if that changes, he'll come back to revise this very sentence with an update. 😉
+
+## Built with
 
 This portfolio is built with **Next.js** and a library called [Nextra](https://nextra.vercel.app/). It allows you to write Markdown and focus on the _content_ of your portfolio. This starter includes:
 
@@ -8,20 +18,20 @@ This portfolio is built with **Next.js** and a library called [Nextra](https://n
 - Easily categorize posts with tags
 - Fast, optimized web font loading
 
-## Configuration
+### Configuration
 
 1. Update your name in `theme.config.js` or change the footer.
 1. Update your name and site URL for the RSS feed in `scripts/gen-rss.js`.
 1. Update the meta tags in `pages/_document.js`.
 1. Update the posts inside `pages/posts/*.md` with your own content.
 
-## Deploy your own
+### Deploy your own
 
 Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example):
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/nextjs-portfolio-starter&project-name=portfolio&repository-name=portfolio)
 
-## How to use
+### How to use
 
 Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init) or [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/) to bootstrap the example:
 
