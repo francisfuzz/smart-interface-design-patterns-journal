@@ -10,7 +10,11 @@ author: francisfuzz
 
 Believe it or not, they're used everywhere: accordions present information in a more compact way.
 
-Design questions to ponder when designing one or many accordions on the same page:
+When toggled, they can either reveal or conceal the content they contain.
+
+However, it's possible to misuse them: should they be used in the main content only, or are there other cases for when they could be helpful, like in navigation or in subsections?
+
+## Questions to ponder
 
 - Is the accordion the same on all major viewport sizes (mobile, tablet, desktop, giant screen), or does it "evolve" depending on the surrounding viewport height and width?
 - Does collapsing one accordion close out all of its siblings, or do the siblings maintain their own state?
