@@ -1,7 +1,7 @@
 ---
 title: Designing For Touch
 date: 2022/09/30
-description: Adjust your workflow to account for customers using their mobile device
+description: Re-think your workflow to include designing for mobile devices by default.
 tag: fundamentals
 author: francisfuzz
 ---
