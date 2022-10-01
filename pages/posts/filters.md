@@ -1,7 +1,7 @@
 ---
 title: Filters
 date: 2022/09/30
-description: Human-friendly `WHERE` clauses
+description: Human-friendly `WHERE` clauses.
 tag: fundamentals
 author: francisfuzz
 ---
